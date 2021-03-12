@@ -202,7 +202,7 @@ const INPUT = [
 ];
 
 function sum2020(INPUT) {
-  // enter your code here
+  // code goes here
 }
 
 module.exports = sum2020;
