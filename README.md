@@ -7,3 +7,5 @@
 - I am using [Jest](https://jestjs.io) for testing. To install the command line tools, type `sudo npm install -g jest` if you're on a Mac or `npm install -g jest` if you're on Windows.
 
 - To run tests, navigate to the directory where they are located and type `jest`. You will see your test results in the terminal window.
+  - An alternate option is to run `jest <directory>/test.js --watch`
+  - `Control + C` will stop the test
